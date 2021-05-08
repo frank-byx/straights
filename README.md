@@ -48,3 +48,9 @@ ragequit
 `deck` prints out the deck in the order that it was dealed (for debugging purposes).
 
 `quit` quits the program, and `ragequit` changes the current human player into a computer player.
+
+## Design
+
+This program was written in C++11. The classes are shown in the UML class diagram below:
+
+![UML Class Diagram](./uml-final.png?raw=true "UML Class Diagram")
